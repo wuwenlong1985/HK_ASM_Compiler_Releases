@@ -1,8 +1,8 @@
 {
-  "version": "0.0.01",
-  "latest_version": "0.0.01",
-  "release_name": "HK64S8x_ASM_IDE V0.0.01",
-  "installer_name": "HK64S8x_ASM_IDE_Setup_V0.0.01.exe",
-  "installer_url": "https://github.com/wuwenlong1985/HK_ASM_Compiler_Releases/raw/main/Releases/HK64S8x_ASM_IDE_Setup_V0.0.01.exe",
-  "notes": "Reset latest version to V0.0.01."
+  "version": "0.0.02",
+  "latest_version": "0.0.02",
+  "release_name": "HK64S8x_ASM_IDE V0.0.02",
+  "installer_name": "HK64S8x_ASM_IDE_Setup_V0.0.02.exe",
+  "installer_url": "https://github.com/wuwenlong1985/HK_ASM_Compiler_Releases/raw/main/Releases/HK64S8x_ASM_IDE_Setup_V0.0.02.exe",
+  "notes": "Refine project options, user manual, update check, and about dialogs."
 }
