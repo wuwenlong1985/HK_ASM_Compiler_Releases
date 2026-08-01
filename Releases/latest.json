@@ -1,8 +1,8 @@
 {
-  "version": "0.0.02",
-  "latest_version": "0.0.02",
-  "release_name": "HK64S8x_ASM_IDE V0.0.02",
-  "installer_name": "HK64S8x_ASM_IDE_Setup_V0.0.02.exe",
-  "installer_url": "https://github.com/wuwenlong1985/HK_ASM_Compiler_Releases/raw/main/Releases/HK64S8x_ASM_IDE_Setup_V0.0.02.exe",
-  "notes": "Refine project options, user manual, update check, and about dialogs."
+  "version": "0.0.03",
+  "latest_version": "0.0.03",
+  "release_name": "HK64S8x_ASM_IDE V0.0.03",
+  "installer_name": "HK64S8x_ASM_IDE_Setup_V0.0.03.exe",
+  "installer_url": "https://github.com/wuwenlong1985/HK_ASM_Compiler_Releases/raw/main/Releases/HK64S8x_ASM_IDE_Setup_V0.0.03.exe",
+  "notes": "中文更新说明：1. 参考新版式重新设计用户手册弹窗；2. 修复笔记本电脑项目选项设置页面高度不足导致的文字重叠；3. 修复软件仿真 ADD/SUB 运算结果未正确写回 ACC；4. 修复 TABL/TABH 对 MTP 特殊字节存储格式的还原逻辑；5. 寄存器窗口支持展开查看 Bit 位并显示寄存器或选定位的详细描述；6. 版本号统一更新为 V0.0.03。"
 }
