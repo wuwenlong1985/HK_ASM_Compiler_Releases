@@ -1,8 +1,8 @@
 {
-  "version": "0.0.05",
-  "latest_version": "0.0.05",
-  "release_name": "HK64S8x_ASM_IDE V0.0.05",
-  "installer_name": "HK64S8x_ASM_IDE_Setup_V0.0.05.exe",
-  "installer_url": "https://github.com/wuwenlong1985/HK_ASM_Compiler_Releases/raw/main/Releases/HK64S8x_ASM_IDE_Setup_V0.0.05.exe",
-  "notes": "中文更新说明：1. 用户手册弹窗参考新版 user-manual.html 重新设计；2. 修复笔记本电脑项目选项设置页面高度不足导致的文字重叠；3. 修复软件仿真 ADD/SUB 运算结果写回 ACC 的问题；4. 修复软件仿真 TABL/TABH 对 MTP 特殊字节存储格式的还原逻辑；5. 寄存器窗口支持展开查看 Bit 位，并显示寄存器或选定位的详细描述；6. 串口通用命令超时时间由 300ms 调整为 800ms；7. MTP 烧录超时时间按 Word 数量动态计算，单个 Word 按 8ms 计算且最小为 500ms；8. 版本号更新为 V0.0.05。"
+  "version": "0.0.07",
+  "latest_version": "0.0.07",
+  "release_name": "HK64S8x_ASM_IDE V0.0.07",
+  "installer_name": "HK64S8x_ASM_IDE_Setup_V0.0.07.exe",
+  "installer_url": "https://github.com/wuwenlong1985/HK_ASM_Compiler_Releases/releases/download/v0.0.07/HK64S8x_ASM_IDE_Setup_V0.0.07.exe",
+  "notes": "串口通用命令超时时间由800ms调整为1s；MTP烧录最小超时时间由500ms调整为1s；同步更新版本号为V0.0.07。"
 }
